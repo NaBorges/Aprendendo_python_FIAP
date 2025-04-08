@@ -21,3 +21,5 @@ texto_saida = f"\tnome: {nome}\n\tPeso: {peso} kg\n\tALTURA: {altura} cm\n\tIDAD
 print(texto_saida)
 
 print("termino do projeto")
+
+print("salvando no github")
